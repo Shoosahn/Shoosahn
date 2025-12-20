@@ -1,8 +1,8 @@
 <h1 align="center">Hello, World 👋</h1>
 
-<p align="center">
+<div align="center">
   <img src="./assets/Shoosahn.png" width="160" alt="Shoosahn" style="border: 2px solid #ffffff; border-radius: 4%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=I'm%20Shoosahn&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" alt="Capsule waving" />
@@ -23,15 +23,17 @@
 <h3 align="center">I'm coding with</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" style="margin:0 6px;" alt="typescript logo"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" style="margin:0 6px;" alt="nextjs logo"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" style="margin:0 6px;" alt="tailwindcss logo"/>
-  <img src="https://skillicons.dev/icons?i=py" height="60" style="margin:0 6px;" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" style="margin:0 6px;" alt="raspberrypi logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" style="margin:0 6px;" alt="react logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" style="margin:0 6px;" alt="javascript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" style="margin:0 6px;" alt="kaggle logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" style="margin:0 6px;" alt="csharp logo"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
 </div>
 
 ---
