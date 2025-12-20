@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World 👋</h1>
 
 <p align="center">
-  <img src="./assets/Shoosahn.png" width="160" alt="Shoosahn"/>
+  <img src="./assets/Shoosahn.png" width="160" alt="Shoosahn" style="border: 2px solid #ffffff; border-radius: 4%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
 </p>
 
 <p align="center">
