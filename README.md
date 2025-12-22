@@ -38,24 +38,18 @@
 
 <!-- Connect -->
 <h3 align="center">Connect with me</h3>
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/subaligh-hasan-933881348/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" 
-         height="28" alt="LinkedIn logo" style="margin:0 4px;" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shoosahn.scorpion@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Shoosahn," target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" 
-         height="28" alt="Gmail logo" style="margin:0 4px;" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://discord.gg/SwQ6cZ8Pgz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" 
-         height="28" alt="Discord logo" style="margin:0 4px;" />
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</div>
+</p>
 
-</br>
 
-<!-- Visitor Badge -->
-<div align="center" style="margin-top:16px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shoosahn.Shoosahn" alt="visitor badge" />
-</div>
+
+
