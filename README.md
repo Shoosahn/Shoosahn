@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monospace+Code&size=26&pause=1200&center=true&vCenter=true&width=600&lines=Backend+%7C+IoT+%7C+Data+Engineering" 
+  <img src="https://readme-typing-svg.demolab.com?font=Monospace+Code&size=26&pause=1200&center=true&vCenter=true&width=612&lines=Backend+%7C+Frontend+%7C+IoT+%7C+Data+Engineering" 
        alt="Typing animation"/>
 </p>
 
